@@ -8,5 +8,5 @@ readme = "README.md"
 authors = ["Jeremy Soller <jackpot51@gmail.com>"]
 
 [dependencies]
-orbclient = "0.1"
+orbclient = {git = "git://github.com/LazyOxen/orbclient", branch="lin_gradient"}
 rusttype = "0.2"
